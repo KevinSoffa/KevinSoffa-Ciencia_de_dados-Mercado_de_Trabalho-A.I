@@ -26,7 +26,7 @@
        imóvel está com preço atrativo (abaixo da média para imóveis com as mesmas características) ou não.
     </p>
     <hr>
-    <h3> Onde encontrar a base de dados? </h3>
+    <h3> Onde encontrar a base de dados? &#x1F50E </h3>
       <p>
         As bases de dados foram retiradas do site kaggle: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro
       </p>
